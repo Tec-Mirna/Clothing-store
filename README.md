@@ -22,7 +22,7 @@ Esta tabla almacena la fecha en que se realizó, el cliente, producto, el costo 
 y optimizar los procesos de pago para una mejor experiencia y preferencia por parte de los clientes
 
 ## Empleados
-Esta tabla no está relacionada con las ventas de los productos, sin embargo, desempeña un papel importante, ya que almacenando información sobre el personal, como nombre, dirección,
+Esta tabla no está relacionada con las ventas de los productos, sin embargo, desempeña un papel importante, ya que almacena información sobre el personal, como nombre, dirección,
 teléfono, correo electrónico y cargo, lo cual facilita la asignación de tareas, la gestión de horarios y la comunicación interna.
 
 
